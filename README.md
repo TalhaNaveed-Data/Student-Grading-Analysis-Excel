@@ -1,5 +1,3 @@
-# Student-Grading-Analysis-Excel
-Automated student performance evaluation system using advanced Excel formulas
 Project: Automated Student Grading System
 What I did:
 Built a dynamic grading sheet for 12 students across 7 core subjects.
